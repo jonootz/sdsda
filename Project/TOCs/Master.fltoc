@@ -1,13 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc
-  Version="1">
-  <TocEntry
-    Title="A"
-    Link="/Content/A.htm" />
-  <TocEntry
-    Title="C"
-    Link="/Content/C.htm" />
-  <TocEntry
-    Title="B"
-    Link="/Content/B.htm" />
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="B" Link="/Content/B.htm" />
+    <TocEntry Title="A" Link="/Content/A.htm" />
+    <TocEntry Title="C" Link="/Content/C.htm" />
 </CatapultToc>
