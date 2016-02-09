@@ -10,4 +10,7 @@
   <TocEntry
     Title="C"
     Link="/Content/C.htm" />
+  <TocEntry
+    Title="NewTopicD"
+    Link="/Content/NewTopicD.htm" />
 </CatapultToc>
